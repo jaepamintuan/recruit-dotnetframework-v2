@@ -1,22 +1,21 @@
 # Assignment
 Create a backend .NET API using this empty project (this repo) for this [frontend repository](https://github.com/EdenCoNz/recruit-react/)
 
-Please note that you do not need to create the frontend code for this project unless specified, you simply need to provide the backend service that would be used for the imaginary frontend
+Please note that you do not need to create the frontend code for this project unless specified, you simply need to prepare the backend service that would be used for the imaginary frontend.
 
 ## Spec
 Sky's the limit with your implementation but there are 2 main tasks that will be assessed:
 
-1. Input Validation Code Implementation
+1. Models and endpoints that you may use for the front-end entities
 2. Code Structure and Architecture
 
-### Input validation Code Implementation
-- Credit card field is any number
-- CVC is any number
-- Expiry is any valid date
-- Handle appropriately when submitted fields are invalid
+### Models
+- Credit card field
+- CVC
+- Expiry
 
 ### Code Structure and Architecture for entire project
-- At a minimum, define necessary entities and method signatures to show the use and flow of data for the architecture
+- At a minimum, define necessary entities and method signatures to show the use and flow of data for the architecture. Pseudocode is accepted
 
 ## What is valued
 - Unit tests
